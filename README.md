@@ -18,8 +18,7 @@ This is a basic personal portfolio website created using only HTML and CSS.
 
 ## 🌐 Live Demo
 
-[View Live Website](https://yourusername.github.io/portfolio-website)
-
+[View Live Website] https://vivekraja01.github.io/portfolio-simple-website/
 ## 📌 Notes
 
 - This project is for learning purposes and beginner practice.
